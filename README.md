@@ -34,5 +34,10 @@ The editor supports writing code in separate panels and shows the result inside 
 - `script.js` — JS logic initializing Monaco editors and handling live preview  
 - `Logo.png` — Logo image used in navbar
 
+## Future Features
+- Resizable Editing Panel
+- Opening preview in new tab
+  
+
 ## 👤 Author
 [Enguunbayar] 
