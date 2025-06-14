@@ -28,10 +28,12 @@ The editor supports writing code in separate panels and shows the result inside 
 - Click the **Ажилуулах** button on the navbar to generate and display the combined live output.
 
 ## 📝 Project Structure
-├── index.html # Main HTML file with editor and preview layout
-├── style.css # Styling for layout and editor containers
-├── script.js # JS logic initializing Monaco editors and handling live preview
-├── Logo.png # Logo image used in navbar
+## 📝 Project Structure
+
+- `index.html` — Main HTML file with editor and preview layout  
+- `style.css` — Styling for layout and editor containers  
+- `script.js` — JS logic initializing Monaco editors and handling live preview  
+- `Logo.png` — Logo image used in navbar
 
 ## 👤 Author
 [Enguunbayar] 
