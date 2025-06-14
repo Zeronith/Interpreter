@@ -36,8 +36,12 @@ The editor supports writing code in separate panels and shows the result inside 
 
 ## Future Features
 - Resizable Editing Panel
+- Javascript Console
 - Opening preview in new tab
-  
+- Auto-Run
+- Multiple Theme (Light Mode ||  Dark mode)
+- Code Formatting
+
 
 ## 👤 Author
 [Enguunbayar] 
