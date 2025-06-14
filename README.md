@@ -35,13 +35,13 @@ The editor supports writing code in separate panels and shows the result inside 
 - `Logo.png` — Logo image used in navbar
 
 ## Future Features
-- Resizable Editing Panel
-- Javascript Console
-- Opening preview in new tab
-- Auto-Run
-- Multiple Theme (Light Mode ||  Dark mode)
-- Code Formatting
+Here are some planned improvements to make the editor even better:
+- Resizable editing panel  
+- JavaScript console  
+- Opening preview in a new tab  
+- Auto-run preview  
+- Multiple themes (Light mode / Dark mode)  
+- Code formatting  
 
-
-## 👤 Author
-[Enguunbayar] 
+## 👤 Author  
+Enguunbayar
