@@ -28,7 +28,6 @@ The editor supports writing code in separate panels and shows the result inside 
 - Click the **Ажилуулах** button on the navbar to generate and display the combined live output.
 
 ## 📝 Project Structure
-## 📝 Project Structure
 
 - `index.html` — Main HTML file with editor and preview layout  
 - `style.css` — Styling for layout and editor containers  
