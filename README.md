@@ -36,6 +36,7 @@ The editor supports writing code in separate panels and shows the result inside 
 
 ## Future Features
 Here are some planned improvements to make the editor even better:
+- Continuous improvement in field of UI 
 - Resizable editing panel  
 - JavaScript console  
 - Opening preview in a new tab  
