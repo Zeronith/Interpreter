@@ -9,8 +9,7 @@ let submitBtn = document.getElementById("submit-btn");
 require(['vs/editor/editor.main'], function () 
 {
     htmlEditor = monaco.editor.create(document.getElementById('html'), {
-    value: 
-`<!DOCTYPE html>
+    value: `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -19,8 +18,7 @@ require(['vs/editor/editor.main'], function ()
   <title>Document</title>
 </head>
 <body>
-  <button id="btn"> Над дээр дар </button>
-  <div id="txt"> Над дээр битгий дараарай </div>
+  
 </body>
 </html>`,
     language: 'html',
@@ -36,19 +34,7 @@ require(['vs/editor/editor.main'], function ()
   });
 
     cssEditor = monaco.editor.create(document.getElementById('css'), {
-    value: 
-`#btn
-{
-    border-radius: 10px;
-    background-color: black;
-    color: white;
-    padding: 10px;
-    margin-bottom: 20px;
-}
-#btn:hover{
-    color : black;
-    background-color: white;
-}`,
+    value: '',
     language: 'css',
     theme: 'vs-dark',
     fontSize: 18,
@@ -62,15 +48,7 @@ require(['vs/editor/editor.main'], function ()
   });
 
     jsEditor = monaco.editor.create(document.getElementById('js'), {
-    value: 
-`let btn = document.getElementById("btn");
-let txt = document.getElementById("txt");
-
-btn.addEventListener("click", () => {
-txt.innerText = "Чи над дээр дарчлаа";
-});
-
-    `,
+    value: '',
     language: 'javascript',
     theme: 'vs-dark',
     fontSize: 18,
