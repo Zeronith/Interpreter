@@ -81,3 +81,14 @@ submitBtn.addEventListener("click" , ()=> {
 
     preview.srcdoc = content;
 })
+
+
+let title = document.getElementById("name");
+const max = 30;
+title.addEventListener("beforeinput", (e) =>
+{
+    if( title.innerText.length >= max && e.inputType.startsWith("insert") )
+    {
+        e.preventDefault();
+    }
+})
